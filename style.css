@@ -38,6 +38,16 @@
         color: white;
         cursor: pointer;
 }
+#mail{
+    font-size: 30px;
+    text-decoration: none;
+    
+    
+   
+    
+}
+
+
 .btn1 button:hover{
     background-color: rgb(171, 8, 8);
 }
@@ -91,7 +101,7 @@
     height: 70px;
     width: 476px;
     background: transparent;
-    color: black;
+    color: rgb(235, 226, 226);
     border-radius: 10px;
   
  }
